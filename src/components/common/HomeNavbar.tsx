@@ -54,11 +54,6 @@ const HomeNavbar = ({ setIsGameRulesModalOpen, t }: GameRulesModalProps) => {
             />
           </Link>
         </div>
-        {/* <div className="flex lg:hidden space-x-1">
-          <a href="#" className="text-sm font-semibold leading-6 text-gray-900" onClick={openGameRulesModal}>
-            <InformationCircleIcon className="h-6 w-6 text-gray-500 animate-bounce" />
-          </a>
-        </div> */}
         <div className="hidden lg:flex lg:gap-x-12">
           {navigation.map((item) => (
             <a key={item.name} href={item.href} className="text-sm font-semibold leading-6 text-gray-900">
