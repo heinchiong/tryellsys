@@ -1,0 +1,43 @@
+{
+  "HomeSection": {
+    "moreSimulationComingSoon": "もっと多くのシミュレーションが近日公開予定です。",
+    "stayTuned": "お楽しみに！",
+    "title": "カード引きシミュレーション",
+    "description": "カード引きシミュレーションは、52枚のカードの山札をランダムに配るプロセスを仮想的に再現し、ユーザーがリアルタイムで観察やテストを行える体験コーナーです。",
+    "getStarted": "開始する",
+    "learnMore": "詳細を知る"
+  },
+  "CardDrawingSimulation": {
+    "letsStartNow": "今すぐ始めましょう！",
+    "title": "カード引きシミュレーション",
+    "description": "シミュレーションを始めるには、カードを受け取る人数を入力してください。",
+    "numberOfPeople": "人数",
+    "enterNumberOfPeople": "人数を入力してください",
+    "draw": "ドローカード",
+    "people": "人",
+    "drawResult": "結果"
+  },
+  "ErrorMessage": {
+    "required": "この項目は必須です",
+    "numberOnly": "数値を入力してください",
+    "positiveNumberOnly": "人数は0より大きい数である必要があります"
+  },
+  "ComingSoonSection": {
+    "title": "AIによるカード引きシミュレーション",
+    "description": "AI技術を駆使したカード引きシミュレーションが近日公開予定です。高度な機械学習アルゴリズムを利用して、任意の人数のカード引きをシミュレートしてスキルを磨きましょう。"
+  },
+  "GameRules": {
+    "title": "カード引きのルール",
+    "rule1": "52枚のカードの山札をよくシャッフルします。",
+    "rule2": "カードを受け取る人数（n）を決定します。",
+    "rule3": "山札をn等分します。",
+    "rule4": "システムは、山札の各部分をn人の間で均等に配布し、各人が同じ枚数のカードを受け取るようにします。",
+    "rule5": "カードを受け取っていない人がいる場合、(n)人が52枚を超えたことを意味します。",
+    "thanks": "わかりました、ありがとう！"
+  },
+  "HomeNavbar": {
+    "exploreNow": "今すぐ探索",
+    "comingSoon": "近日公開予定",
+    "switchLanguage": "English"
+  }
+}

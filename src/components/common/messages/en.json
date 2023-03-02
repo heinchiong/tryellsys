@@ -1,0 +1,43 @@
+{
+  "HomeSection": {
+    "moreSimulationComingSoon": "More simulations coming soon.",
+    "stayTuned": "Stay tuned!",
+    "title": "Card Drawing Simulation",
+    "description": "The Card Drawing Simulation section is a virtual experience that simulates the process of randomly distributing a deck of 52 cards among a group of people, allowing users to observe and test the distribution process in real-time.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "CardDrawingSimulation": {
+    "letsStartNow": "Let's start now!",
+    "title": "Card Drawing Simulation",
+    "description": "To start the simulation, enter the number of people who will be receiving cards.",
+    "numberOfPeople": "Number of people",
+    "enterNumberOfPeople": "Enter number of people",
+    "draw": "Draw",
+    "people": "People",
+    "drawResult": "Draw result"
+  },
+  "ErrorMessage": {
+    "required": "This field is required",
+    "numberOnly": "This field must be a number",
+    "positiveNumberOnly": "Number of poeple must be greater than 0"
+  },
+  "ComingSoonSection": {
+    "title": "AI-powered Card Drawing Simulation",
+    "description": "Experience the thrill of card drawing with our upcoming AI-powered simulator. Perfect your skills and simulate drawing cards for any number of players with our advanced machine learning algorithms."
+  },
+  "GameRules": {
+    "title": "Card Drawing Rules",
+    "rule1": "Shuffle the deck of 52 cards thoroughly.",
+    "rule2": "Determine the number of people who will be receiving cards (n).",
+    "rule3": "Divide the deck of cards into n equal parts.",
+    "rule4": "System will try to distribute each part of the deck equally among the n people, ensuring that each person receives the same number of cards.",
+    "rule5": "If there are any people left who have not received cards, that means (n) people exceeded 52.",
+    "thanks": "Got it, thanks!"
+  },
+  "HomeNavbar": {
+    "exploreNow": "Explore Now",
+    "comingSoon": "Coming Soon",
+    "switchLanguage": "日本語"
+  }
+}
